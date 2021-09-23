@@ -95,3 +95,12 @@ git config --global
 git config --global user.email "Kettycit@gmail.com"
 git config --global user.name "Gerasimenko E.V."
 gir commit
+git add .
+git commit
+git remote add origin https://github.com/Kettycit/Kettycit.github.io
+git push -u origin master
+git remote add origin https://github.com/Kettycit/Kettycit.github.io
+git push -u origin master
+git push -u origin
+git push -u origin master
+git push -u origin main

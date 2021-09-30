@@ -104,3 +104,11 @@ git push -u origin master
 git push -u origin
 git push -u origin master
 git push -u origin main
+git add .
+git commit
+git push -u origin main
+git push -u origin master
+cd kettycit.github.io/
+git config --global user.email "Kettycit@gmail.com"
+git config --global user.name "Gerasimenko E.V"
+git push origin main

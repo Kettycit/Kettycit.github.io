@@ -2,3 +2,13 @@ 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
 
 
 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
+
+
+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
+
+
+
+postgres://mhkqiatmsqqexi:338a2a4be9f27648baea915eff14c12c9ae6f58477b4e0bf12673a3b32330e33@ec2-34-249-247-7.eu-west-1.compute.amazonaws.com:5432/d4r3i51nu6uvmi
+
+
+postgres://boxuxzfnzizkmy:6aaf6df738a8f139dc800fc7a3c9fca06acf39df5433da63fd4a56e9e8a40985@ec2-52-200-28-255.compute-1.amazonaws.com:5432/d7uia3hlc7flp6

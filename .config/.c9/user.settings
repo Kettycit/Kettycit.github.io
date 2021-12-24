@@ -1,8 +1,10 @@
 {
     "ace": {
+        "@behavioursEnabled": true,
         "@keyboardmode": "default",
         "@showFoldWidgets": false,
         "@showGutter": true,
+        "@showInvisibles": false,
         "@showPrintMargin": false,
         "custom-types": {
             "json()": {
@@ -24,7 +26,7 @@
         "@show": false
     },
     "projecttree": {
-        "@showhidden": false
+        "@showhidden": true
     },
     "tabs": {
         "@asterisk": false,
